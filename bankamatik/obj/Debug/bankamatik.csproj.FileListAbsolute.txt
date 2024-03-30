@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\bankamatik\bankamatik\obj\Debug\bankamatik.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\bankamatik\bankamatik\obj\Debug\bankamatik.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\bankamatik\bankamatik\bin\Debug\bankamatik.exe.config
+C:\Users\User\Desktop\bankamatik\bankamatik\bin\Debug\bankamatik.exe
+C:\Users\User\Desktop\bankamatik\bankamatik\bin\Debug\bankamatik.pdb
+C:\Users\User\Desktop\bankamatik\bankamatik\obj\Debug\bankamatik.exe
+C:\Users\User\Desktop\bankamatik\bankamatik\obj\Debug\bankamatik.pdb
+C:\Users\muham\OneDrive\Desktop\bankamatik\bankamatik\obj\Debug\bankamatik.csproj.AssemblyReference.cache
+C:\Users\muham\OneDrive\Desktop\bankamatik\bankamatik\obj\Debug\bankamatik.csproj.CoreCompileInputs.cache
+C:\Users\muham\OneDrive\Desktop\bankamatik\bankamatik\obj\Debug\bankamatik.exe
+C:\Users\muham\OneDrive\Desktop\bankamatik\bankamatik\obj\Debug\bankamatik.pdb
+C:\Users\muham\OneDrive\Desktop\bankamatik\bankamatik\bin\Debug\bankamatik.exe.config
+C:\Users\muham\OneDrive\Desktop\bankamatik\bankamatik\bin\Debug\bankamatik.exe
+C:\Users\muham\OneDrive\Desktop\bankamatik\bankamatik\bin\Debug\bankamatik.pdb

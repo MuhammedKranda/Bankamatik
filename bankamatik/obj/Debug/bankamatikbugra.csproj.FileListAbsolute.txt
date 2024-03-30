@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\bankamatik\bankamatik\obj\Debug\bankamatikbugra.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\bankamatik\bankamatik\obj\Debug\bankamatikbugra.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\bankamatik\bankamatik\obj\Debug\bankamatik.exe
+C:\Users\User\Desktop\bankamatik\bankamatik\obj\Debug\bankamatik.pdb
